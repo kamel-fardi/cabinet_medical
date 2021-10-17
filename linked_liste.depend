@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1634483795 source:c:\users\asus\documents\3b3\programmation c\td\linked_liste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"patient.h"
+	"list.h"
+
+1634467326 c:\users\asus\documents\3b3\programmation c\td\linked_liste\patient.h
+
+1634464648 source:c:\users\asus\documents\3b3\programmation c\td\linked_liste\patient.c
+	<stdio.h>
+	<string.h>
+	"patient.h"
+
+1634483696 source:c:\users\asus\documents\3b3\programmation c\td\linked_liste\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+	"patient.h"
+
+1634483727 c:\users\asus\documents\3b3\programmation c\td\linked_liste\list.h
+	"patient.h"
+
