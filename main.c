@@ -8,8 +8,8 @@ int main()
     liste l=creer_liste();;
     int rdv=0,sansRdv=0;
     Patient kamel,ahmed,hocine;
-    char chemin[]="C:/Users/ASUS/Documents/3b3/programmation c/td/linked_liste/patients.txt";
-    char cheminb[]="C:/Users/ASUS/Documents/3b3/programmation c/td/linked_liste/patientsb.txt";
+    char chemin[]="lienfichier/patients.txt";
+    char cheminb[]="lientfichier/patientsb.txt";
 
 
     //saisirPatient(&o->p);
